@@ -77,7 +77,7 @@ The project uses the **Tennis Backview dataset** from Kaggle.
 
 Source : https://www.kaggle.com/datasets/gastonarielfrancois/tenis-backview/data
 
-The dataset contains tennis videos recorded from a **back-view camera angle**, along with CSV files containing frame-level coordinate information.
+The dataset contains tennis videos recorded from a **back-view camera angle**, along with CSV files containing frame-level coordinate information. Each video is in MP4 format with dimension 1080x1920 and 60fps 
 
 The annotation files provide information such as:
 
