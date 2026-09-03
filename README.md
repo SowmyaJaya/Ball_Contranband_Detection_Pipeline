@@ -2,6 +2,12 @@
 
 A computer vision pipeline for **detecting and tracking a tennis ball in video** using frame-level ground-truth annotations.
 
+*INPUT VIDEO*
+
+https://github.com/user-attachments/assets/343e6b79-de24-4e64-9e78-9e20fc1a904f
+
+
+
 The project uses a back-view tennis video from the **Tennis Backview dataset** and combines:
 
 * Motion-based candidate generation
@@ -12,6 +18,12 @@ The project uses a back-view tennis video from the **Tennis Backview dataset** a
 * Ground-truth-based evaluation
 
 The final output is an annotated video showing the detected tennis ball and its recent trajectory.
+
+*OUTPUT VIDEO*
+
+https://github.com/user-attachments/assets/90109935-1597-4b5e-a5d1-5387592a26e0
+
+
 
 ---
 
